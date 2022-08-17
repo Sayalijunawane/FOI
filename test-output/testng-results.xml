@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="52307" started-at="2022-08-17T10:08:19 IST" finished-at="2022-08-17T10:09:12 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="52307" started-at="2022-08-17T10:08:19 IST" finished-at="2022-08-17T10:09:12 IST">
+      <class name="test.HandlePatientsSearchTest">
+        <test-method status="PASS" signature="reportInit()[pri:0, instance:test.HandlePatientsSearchTest@4fb64261]" name="reportInit" is-config="true" duration-ms="202" started-at="2022-08-17T10:08:19 IST" finished-at="2022-08-17T10:08:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportInit -->
+        <test-method status="PASS" signature="addNewSuregery()[pri:0, instance:test.HandlePatientsSearchTest@4fb64261]" name="addNewSuregery" duration-ms="52285" started-at="2022-08-17T10:08:19 IST" finished-at="2022-08-17T10:09:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewSuregery -->
+      </class> <!-- test.HandlePatientsSearchTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
