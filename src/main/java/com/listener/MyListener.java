@@ -15,6 +15,7 @@ public class MyListener extends base implements ITestListener
 	@Override
 	public void onTestStart(ITestResult result) {
 		test=report.createTest(result.getName());	
+		System.out.println("you in listerer");
 	}
 
 	@Override
